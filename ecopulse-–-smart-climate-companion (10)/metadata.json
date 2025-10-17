@@ -1,0 +1,5 @@
+{
+  "name": "EcoPulse – Smart Climate Companion",
+  "description": "An interactive AI-powered platform that helps users understand and take action against heat waves and climate change. It includes a chatbot, a recycling marketplace, a coolspace finder, and a real-time heatwave location checker.",
+  "requestFramePermissions": []
+}
